@@ -1,7 +1,7 @@
 # Naviaddress-public
 Bugs and features proposal for Navi products
 
-Bug report template
+# Bug report template
 <!--- Help us to avoid duplicate reports, make sure you have searched through existing issues before submitting a new one-->
 
 
